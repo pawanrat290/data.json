@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "What is computer?",
+        "subtitle" : "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations (computation) automatically. Modern digital electronic computers can perform generic sets of operations known as programs.",
+        "image" : "https://images.pexels.com/photos/4812885/pexels-photo-4812885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "detail" : "The first computers were used primarily for numerical calculations. However, as any information can be numerically encoded, people soon realized that computers are capable of general-purpose information processing. Their capacity to handle large amounts of data has extended the range and accuracy of weather forecasting. Their speed has allowed them to make decisions about routing telephone connections through a network and to control mechanical systems such as automobiles, nuclear reactors, and robotic surgical tools. They are also cheap enough to be embedded in everyday appliances and to make clothes dryers and rice cookers “smart.” Computers have allowed us to pose and answer questions that could not be pursued before. These questions might be about DNA sequences in genes, patterns of activity in a consumer market, or all the uses of a word in texts that have been stored in a database. Increasingly, computers can also learn and adapt as they operate."
+    },
+    {
+        "title" : "What is Programming?",
+        "subtitle" : "Programming refers to a technological process for telling a computer which tasks to perform in order to solve problems. Programming involves tasks such as analysis, generating algorithms, profiling algorithms'.",
+        "image" : "https://images.pexels.com/photos/4385547/pexels-photo-4385547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "detail" : "As we know, to communicate with a person, we need a specific language, similarly to communicate with computers, programmers also need a language is called Programming language.Language is a mode of communication that is used to share ideas, opinions with each other. For example, if we want to teach someone, we need a language that is understandable by both communicators."
+    },
+    {
+        "title" : "What is Programmer?",
+        "subtitle" : "Computer programmers write, modify, and test code and scripts that allow computer software and applications to function properly. They turn the designs created by software developers and engineers into instructions that a computer can follow.",
+        "image" : "https://images.pexels.com/photos/1181325/pexels-photo-1181325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "detail" : "Computer programmers use programming languages to write, test, and maintain code. These essential tech professionals create programs and software that millions of people use every day.Computer programmers work independently as part of larger software teams. Together with software developers and engineers, programmers create the instructions computers use to execute tasks. A programmer's job also includes finding bugs, eliminating errors, and troubleshooting issues. These professionals need a detail-oriented and creative outlook, along with skills in several programming languages."
+    }
+]
